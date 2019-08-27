@@ -4,3 +4,8 @@
 ```bash
 python main.py
 ```
+
+### TODO:
+- Serialization implementation
+- Local shuffle implementation
+
